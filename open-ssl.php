@@ -1,7 +1,7 @@
 /*==============================================================================
 *	CLASS SECURITY UNTUK PROSES encrypt, decrypt
-*							2021 (c) By SCM csynoers
-*              LAST UPDATE 2021/03/05
+*	        2021 (c) By SCM csynoers
+*           LAST UPDATE 2021/03/05
 *==============================================================================*/
 class Security{
     protected $key;
