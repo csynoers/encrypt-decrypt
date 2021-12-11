@@ -1,3 +1,4 @@
+<?php
 /*==============================================================================
 *	CLASS SECURITY UNTUK PROSES encrypt, decrypt
 *	        2021 (c) By SCM csynoers
